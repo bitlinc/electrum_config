@@ -1,8 +1,16 @@
 # electrum_config
 
- 1 {
- 2     "config_version": 3,
- 3     "rpcpassword": "bin1",
- 4     "rpcuser": "var2",
- 5 }
- 6
+{
+
+    "auto_connect": true,
+    "check_updates": false,
+    "config_version": 3,
+    "dont_show_testnet_warning": true,
+   
+    "rpcpassword": "bin1",
+    "rpcuser": "var2", 
+
+}
+ 
+
+    
